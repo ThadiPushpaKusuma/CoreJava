@@ -1,0 +1,16 @@
+package practice;
+
+public class relational_Database {
+	public static void main(String[]args)
+	{
+		int x = 7;
+		int y = 5;
+		int a = 5;
+		int b = 9;
+		 
+		int result = a > b;
+		System.out.println(result);
+		
+	}
+
+}

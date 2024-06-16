@@ -1,0 +1,15 @@
+package ternary_operator;
+
+public class exercise_3 {
+	public static void main(String[]args)
+	{
+		int y =6;
+		int results = 20;
+		if (y%6==0)
+			results = 20;
+		else
+			results = 40;
+		System.out.println(results);
+	}
+
+}
